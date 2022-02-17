@@ -1,7 +1,7 @@
 {
   "name": "chat_app",
   "version": "1.0.0",
-  "homepage": "https://rtopolko.github.io/testSeminarskiChat",
+  "homepage": "https://rtopolko.github.io/domenaChat",
   "description": "Chat aplikacija, spaja se na sceledron,potrebno se registrirati, sve potrebno za spajanje na sceladron stavi u env",
   "main": "index.js",
   "scripts": {
